@@ -51,9 +51,6 @@ cat >/tmp/retainer.list <<EOR
   + toolcache_java
 - database
 - browser_all
-  + browser_firefox
-  + browser_chrome
-  + browser_edge
 - xvfb
 - webservers
 - php
